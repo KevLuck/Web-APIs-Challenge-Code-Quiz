@@ -1,9 +1,6 @@
 # Web-APIs-Challenge-Code-Quiz
 Module 4 Challenge Web APIs Challenge: Code Quiz
 
-# Web-APIs-Challenge-Code-Quiz
-Module 4 Challenge Web APIs Challenge: Code Quiz
-
 This is an application that uses CSS, Javascript, dynamic elements and a countdown to test your knowledge of Code.
 
 #Screenshots 
